@@ -3,7 +3,7 @@
  *         cconrad6@huskers.unl.edu
  * Date: 2023/8/28
  *
- * Prints Hello World in C
+ * Prints my name in C
  *
  */
 
