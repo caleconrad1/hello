@@ -3,7 +3,7 @@
  *         cconrad6@huskers.unl.edu
  * Date: 2023/8/28
  *
- * Prints my name in C
+ * Prints my name and major in C
  *
  */
 
@@ -11,7 +11,9 @@
 
 int main(int argc, char **argv) {
 
-    printf("Cale Conrad\n");
+    printf("Cale Conrad!\n");
+
+    printf("Electrical Engineer\n");
 
     return 0;
 }
